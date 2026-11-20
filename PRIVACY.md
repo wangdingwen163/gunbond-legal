@@ -140,5 +140,5 @@ Email: **liyajuan888@qq.com**
 
 ---
 
-*本政策随游戏分发，同时发布于 Steam 商店页面。*
-*This policy ships with the game and is also published on the Steam store page.*
+*本政策随游戏分发，同时发布于 https://wangdingwen163.github.io/gunbond-legal/ 与 Steam 商店页面。*
+*This policy ships with the game and is also published at https://wangdingwen163.github.io/gunbond-legal/ and on the Steam store page.*
